@@ -20,4 +20,4 @@ jobs:
       run: npm install 
 
     - name: Run tests
-      run: node --test test/trabalho-final.js
+      run: npx mocha test/trabalho-final.js
