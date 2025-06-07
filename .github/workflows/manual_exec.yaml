@@ -1,7 +1,7 @@
 name: Run JavaScript Tests
 
 on:
-workflow_dispatch: 
+  workflow_dispatch: 
 
 jobs:
 run-tests:
